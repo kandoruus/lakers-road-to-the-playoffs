@@ -1,3 +1,7 @@
+.record-wrapper div {
+  display: inline-block;
+  margin: 0 1em 0 0;
+}
 .App {
   text-align: center;
 }
